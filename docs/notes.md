@@ -9,3 +9,5 @@ CSS Pseudo-elements: [https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-el
 Specificity Calculator: [https://specificity.keegan.st/](https://specificity.keegan.st/)
 
 Flexbox guide: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+CSS Reference: [https://cssreference.io/](https://cssreference.io/)
