@@ -11,3 +11,10 @@ Specificity Calculator: [https://specificity.keegan.st/](https://specificity.kee
 Flexbox guide: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 CSS Reference: [https://cssreference.io/](https://cssreference.io/)
+
+## CSS Architecture Types
+- OOCSS
+- BEM
+- SMACSS
+- ITCSS
+- Atomic Design
