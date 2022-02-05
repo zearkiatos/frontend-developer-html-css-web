@@ -18,3 +18,13 @@ CSS Reference: [https://cssreference.io/](https://cssreference.io/)
 - SMACSS
 - ITCSS
 - Atomic Design
+
+## For Practice
+
+Frontend Mentor: [https://www.frontendmentor.io/challenges](https://www.frontendmentor.io/challenges)
+Coderbytes: [https://coderbyte.com/challenges](https://coderbyte.com/challenges)
+Codewell: [https://www.codewell.cc/challenges](https://www.codewell.cc/challenges)
+CSS Battle: [https://cssbattle.dev/](https://cssbattle.dev/)
+Codepen.io: [https://codepen.io/](https://codepen.io/)
+
+
